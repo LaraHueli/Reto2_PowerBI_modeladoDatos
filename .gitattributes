@@ -1,0 +1,1 @@
+datos/FactSales.csv filter=lfs diff=lfs merge=lfs -text
